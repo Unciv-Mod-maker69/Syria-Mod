@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Syria",
+        "leaderName": "Bashar Ai Assad",
+        "adjective": ["Syrian"],
+        "startBias": ["Desert"],
+        "preferredVictoryType": "Scientific",
+        "startIntroPart1": "Not Finished.",
+        "startIntroPart2": "Idk what to write.",
+        "declaringWar": "You are the problem why our peoples suffering.",
+        "attacked": "This is the BIGGEST mistake you ever done.",
+        "defeated": "The Syria is defeated. I couldnt defend the Syria now you are the owner of our land...",
+        "introduction": "Hello, i am Bashar Ai Assad. Leader of TRUE Syria!",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want from us?",
+        "tradeRequest": "This deal will make both our nations better!",
+        "outerColor": [70, 83, 150],
+        "innerColor": [184, 175, 118],
+        "uniqueName": "Syrian civil war.",
+        "uniques": [
+            "[+5 Happiness, +3 Culture, +1 Production] [in annexed cities]",
+            "[+3 Happiness, +3 Culture, +1 Production] [in puppeted cities]",
+            "[+15]% Strength <for [Land] units> <vs cities>"
+        ],
+        "cities": [
+            "Damasc","Aleppo","Homs","Hama","Latakia","Tartus","Raqqa","Meadin","Hasakah","Derik",
+            "Zhirk Lezh"
+        ],
+        "spyNames": [
+            "Aqob","Ashur","Rashad","Muhamed","Yasmin","Yakub","Yaqub","Alissa","Uzair","Binyamin"
+        ]
+    }
+[
